@@ -1,0 +1,31 @@
+Run #,Runtime,Command
+1,0:00:05.237336,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:04.692466,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:04.055639,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:03.411297,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:03.554568,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:03.307784,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:02.875319,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:03.753038,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:02.862896,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:03.091226,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:02.785482,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:03.143748,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:13.411395,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:12.590172,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:13.736348,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:07.023561,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:06.902527,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:07.149502,java SequentialFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:05.692775,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:05.260583,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:05.571748,java BasicThreadedFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:04.384851,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:05.124801,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:05.389499,java ByFirstLetterFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:04.468459,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:04.492958,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:04.775826,java MergeFreq TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+1,0:00:24.889014,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+2,0:00:24.311855,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
+3,0:00:26.366398,java -classpath BoundedBuffer BoundedBufferTable TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt TextFiles/testRun.txt
